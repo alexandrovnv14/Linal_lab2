@@ -129,17 +129,18 @@ Confusion Matrix:
 ### 1. Динамика обучения
 График показывает изменение функции потерь в процессе обучения. Стабилизация потерь после 3-й эпохи свидетельствует о сходимости модели.
 
-![График потерь](loss_history.png)
+![loss_history](https://github.com/user-attachments/assets/2a29a6c7-1cf5-4a79-b3ef-9e67dd2a8992)
 
 ### 2. Матрица ошибок
 Тепловая карта наглядно демонстрирует распределение верных и ошибочных предсказаний:
 
-![Матрица ошибок](confusion_matrix.png)
+![confusion_matrix](https://github.com/user-attachments/assets/a2c65cfa-2caa-42f8-a860-6c07d297f7f4)
+
 
 ### 3. ROC-кривая
 Оценка качества классификации при различных пороговых значениях. AUC = 0.88 показывает хорошее качество модели.
 
-![ROC-кривая](roc_curve.png)
+![roc_curve](https://github.com/user-attachments/assets/cfd5db60-6417-4bb1-a4bf-400cd1f42079)
 
 ---
 
